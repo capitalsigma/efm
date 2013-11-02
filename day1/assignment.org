@@ -1,0 +1,7 @@
+
+* elliot wave thy
+  + there are corrective bumps in tends
+  + 5 "dominant segments" going upwards or downwards and 3 "corrective segments" that go in the opposite direction
+
+* assignment
+  + make a trading algorithm that implements this idea
