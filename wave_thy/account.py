@@ -126,7 +126,7 @@ class Model(object):
         
     def execute(self, start_date, end_date, avg_range):
         assert(isinstance(start_date, datetime.datetime))
-        assert(isinstnace(end_date, datetime.datetime))
+        assert(isinstance(end_date, datetime.datetime))
 
         # model state
         current_run = 0
